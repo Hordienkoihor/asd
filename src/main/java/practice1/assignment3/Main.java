@@ -1,7 +1,8 @@
 package practice1.assignment3;
 
-import Assignment1.Animal;
-import Assignment1.Dog;
+
+import practice1.assignment1.Animal;
+import practice1.assignment1.Dog;
 
 public class Main {
     public static void main(String[] args) {
